@@ -6,7 +6,7 @@
 
 # QAuxiliary-PlusOne
 
-_1⃣️ LET'S PLUSONE ! 1⃣️_
+_🌸 LET'S PLUSONE ! 🌸_
 
 </div>
 
