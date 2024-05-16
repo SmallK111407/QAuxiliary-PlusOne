@@ -37,7 +37,7 @@ _🌸 LET'S PLUSONE ! 🌸_
 
 文件夹命名规则参考
 ```
-<制作人名字> 如`resources/Other/曉K`
+<制作人名字>   如resources/Other/曉K
 ```
 
 图标文件命名规则参考(对应图标置于对应制作人文件夹内)
