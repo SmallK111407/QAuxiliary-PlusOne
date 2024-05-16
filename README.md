@@ -12,7 +12,7 @@ _🌸 LET'S PLUSONE ! 🌸_
 
 ## 项目介绍
 
-本项目用于存储个人制作或他人专属/定制 QQ QAuxiliary模块 +1 Plus 功能 图标
+本项目用于存储个人制作或他人专属/定制亦或者是他人自愿提交贡献自己制作的 QQ QAuxiliary模块 +1 Plus 功能 图标
 
 其中[Main](./resources/Main/)文件夹内是由我个人制作的，[Other](./resources/Other/)文件夹内是由其他人自行贡献制作的
 
